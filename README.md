@@ -1,4 +1,10 @@
+jQueryTO Conference Notes
+=========================
 
+A crowd sourced collection of notes from the jQueryTO 2014 conference
+
+##The State of jQuery
+by [Kris Borchers](https://twitter.com/kborchers)  
 Slides: ???
 
 
